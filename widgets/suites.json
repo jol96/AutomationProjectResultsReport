@@ -1,1 +1,1 @@
-{"total":0,"items":[]}
+{"total":2,"items":[{"uid":"29ece61b7bf1389e46e17c89ac0c7510","name":"Order Tests as Customer - Bulky Web App","statistic":{"failed":0,"broken":1,"skipped":0,"passed":0,"unknown":0,"total":1}},{"uid":"d2cbe1ae22d7ba4fc4a9922c59f3c933","name":"Category Tests as an Admin user - Bulky Web App","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
