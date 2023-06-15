@@ -1,4 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Wed May 31 06:02:23 UTC 2023","Wed May 31 06:02:28 UTC 2023","5081","","Category Tests as an Admin user - Bulky Web App","","Create and Delete New Category","","Create and Delete New Category",""
-"broken","Wed May 31 06:01:50 UTC 2023","Wed May 31 06:02:22 UTC 2023","32752","","Order Tests as Customer - Bulky Web App","","Create an Order","","Create an Order",""
-"passed","Wed May 31 06:02:28 UTC 2023","Wed May 31 06:02:31 UTC 2023","2666","","Products API Tests - Bulky Web App","","Create and Delete New Product","","Create and Delete New Product",""
+"passed","Thu Jun 15 15:20:16 UTC 2023","Thu Jun 15 15:20:21 UTC 2023","5685","","Category Tests as an Admin user - Bulky Web App","","Create and Delete New Category","","Create and Delete New Category",""
+"passed","Thu Jun 15 15:20:22 UTC 2023","Thu Jun 15 15:20:24 UTC 2023","2172","","Products API Tests - Bulky Web App","","Create and Delete New Product","","Create and Delete New Product",""
+"broken","Thu Jun 15 15:19:56 UTC 2023","Thu Jun 15 15:20:15 UTC 2023","18909","","Order Tests as Customer - Bulky Web App","","Create an Order","","Create an Order",""
